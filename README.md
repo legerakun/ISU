@@ -1,2 +1,2 @@
 # ISU
-Zadachi po infe
+Irkutsk State Univercity practical task of programming (first half)
